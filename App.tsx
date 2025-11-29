@@ -15,8 +15,16 @@ const App: React.FC = () => {
     error: null,
   });
 
+
+  
+const TodaysDate = new Date().toISOString().split("T")[0];
+
+  
+  
+  
   // Default to first date in mock data for demo purposes, or today
-  const [selectedDate, setSelectedDate] = useState<string>('2025-01-01');
+   // const [selectedDate, setSelectedDate] = useState<string>('2025-01-01');
+  const [selectedDate, setSelectedDate] = useState<string>(TodaysDate);
 
   useEffect(() => {
     const load = async () => {
