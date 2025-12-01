@@ -126,7 +126,7 @@ const TodaysDate = new Date().toISOString().split("T")[0];
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
           
           {/* Left Column: Tasks */}
-          <div className="lg:col-span-4 h-[500px]">
+          <div className="lg:col-span-4 h-full">
             <TaskCard date={selectedDate} tasks={data.tasks[selectedDate]} />
           </div>
 
