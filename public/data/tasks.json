@@ -5,20 +5,26 @@
     { "task": "Magnetic Fields due to Electric Current", "done": true },
     { "task": "Magnetic Materials", "done": true },
     { "task": "Electromagnetic Induction", "done": true },
-    { "task": "AC Circuits", "done": false }
-    
+    { "task": "AC Circuits", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
   "2025-12-02": [
     { "task": "Vectors", "done": true },
     { "task": "SHM", "done": true },
     { "task": "Thermodynamics", "done": false },
-    { "task": "PHYSICS", "done": true}
+    { "task": "PHYSICS", "done": true },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
+
   "2025-12-03": [
     { "task": "differentiation+AOD", "done": false },
     { "task": "SHM", "done": false },
-    { "task": "Thermodynamics", "done": false }
+    { "task": "Thermodynamics", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
   "2025-12-04": [
@@ -26,12 +32,25 @@
     { "task": "Application of Differentiation", "done": false },
     { "task": "Indefinite Integration", "done": false },
     { "task": "Definite Integration", "done": false },
-    { "task": "Application of Definite Integration", "done": false }
+    { "task": "Application of Definite Integration", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-05": [],
-  "2025-12-06": [],
-  "2025-12-07": [],
+  "2025-12-05": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-06": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-07": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
 
   "2025-12-08": [
     { "task": "Ionic Equilibria", "done": false },
@@ -41,26 +60,47 @@
     { "task": "Halogen Derivatives", "done": false },
     { "task": "Alcohols", "done": false },
     { "task": "Phenols", "done": false },
-    { "task": "Ethers", "done": false }
+    { "task": "Ethers", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-09": [],
-  "2025-12-10": [],
-  "2025-12-11": [],
+  "2025-12-09": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-10": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-11": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
 
   "2025-12-12": [
     { "task": "Rotational Dynamics", "done": false },
     { "task": "Mechanical Properties of Fluids", "done": false },
-    { "task": "Kinetic Theory of Gases and radiation", "done": false }
+    { "task": "Kinetic Theory of Gases and radiation", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-13": [],
+  "2025-12-13": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
   "2025-12-14": [
     { "task": "Mathematical Logic", "done": false },
     { "task": "Trigonometric Functions", "done": false },
     { "task": "Pair of Straight Lines", "done": false },
     { "task": "Linear Programming", "done": false },
-    { "task": "Probability Distribution", "done": false }
+    { "task": "Probability Distribution", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
   "2025-12-16": [
@@ -70,13 +110,30 @@
     { "task": "Chemical Kinetics", "done": false },
     { "task": "Elements of Group 16,17,18", "done": false },
     { "task": "Transition Elements", "done": false },
-    { "task": "Inner Transition Elements", "done": false }
+    { "task": "Inner Transition Elements", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-17": [],
-  "2025-12-18": [],
-  "2025-12-19": [],
-  "2025-12-20": [],
+  "2025-12-17": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-18": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-19": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-20": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
 
   "2025-12-21": [
     { "task": "Oscillations", "done": false },
@@ -84,31 +141,68 @@
     { "task": "Wave Optics", "done": false },
     { "task": "Dual Nature of Radiation and Matter", "done": false },
     { "task": "Structure of Atoms and Nuclei", "done": false },
-    { "task": "Semiconductor Devices", "done": false }
+    { "task": "Semiconductor Devices", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-22": [],
-  "2025-12-23": [],
-  "2025-12-24": [],
+  "2025-12-22": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-23": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-24": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
   "2025-12-25": [
     { "task": "Differential Equations", "done": false },
     { "task": "Binomial Distribution", "done": false },
     { "task": "Matrices", "done": false },
     { "task": "Vectors", "done": false },
-    { "task": "Line and Plane", "done": false }
+    { "task": "Line and Plane", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
-  "2025-12-26": [],
-  "2025-12-27": [],
-  "2025-12-28": [],
+
+  "2025-12-26": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-27": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-28": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
 
   "2025-12-29": [
     { "task": "Amines", "done": false },
     { "task": "Biomolecules", "done": false },
     { "task": "Polymers", "done": false },
     { "task": "Green Chemistry", "done": false },
-    { "task": "Nanochemistry", "done": false }
+    { "task": "Nanochemistry", "done": false },
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
   ],
 
-  "2025-12-30": [],
-  "2025-12-31": []
+  "2025-12-30": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ],
+
+  "2025-12-31": [
+    { "task": "Recall day", "done": false },
+    { "task": "Quit phone", "done": false }
+  ]
 }
